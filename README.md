@@ -1,0 +1,2 @@
+# GreatCoin
+Cryptocurrency
